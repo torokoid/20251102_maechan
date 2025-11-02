@@ -184,10 +184,10 @@ p.note { display: none; }
 <h2><span class="yellow">やっと青空です</span></h2>
 <a href="20251102_008.JPG" target="_blank"><img src="20251102_008.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">お米を仕入れた若者のバイク</span></h2>
+<h2><span class="yellow">お米を仕入れた若者のバイク<br>3名乗車+米の重量に耐えるバイクも立派</span></h2>
 <a href="20251102_009.JPG" target="_blank"><img src="20251102_009.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">道の上の雲がワンちゃん</span></h2>
+<h2><span class="yellow">道の上の雲がワンちゃんの姿</span></h2>
 <a href="20251102_010.JPG" target="_blank"><img src="20251102_010.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">熱帯の変わりやすい天気</span></h2>
@@ -247,7 +247,7 @@ p.note { display: none; }
 <a href="20251102_048.JPG" target="_blank"><img src="20251102_048.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251102_049.JPG" target="_blank"><img src="20251102_049.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">駐車場で入り口の真っ白なオブジェ</span></h2>
+<h2><span class="yellow">駐車場の出入り口の真っ白なオブジェ</span></h2>
 <a href="20251102_050.JPG" target="_blank"><img src="20251102_050.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">国道に戻る交差点に先ほどのお寺</span></h2>
